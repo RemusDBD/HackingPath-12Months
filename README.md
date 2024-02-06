@@ -1,7 +1,7 @@
 # HackingPath-12Months<br>
 12-month hacking bootcamp: Code. Hack. Learn.  Master essential cybersec skills: Python, exploits, ️web security, &amp; more. Daily GitHub projects showcase your journey. Become a pro - ethically!  #infosec #hacking<br>
 
-Week	        GitHub Project Title<br>
+#Week	        #GitHub Project Title<br>
 1-2	          Python Data Types & Control Flow Exercises<br>
 3-4	          Python Function & Class Implementation Challenges<br>
 5-6	          Python  Network Scanning & Packet Analysis Scripts<br>
@@ -21,4 +21,4 @@ Week	        GitHub Project Title<br>
 39-42 	      Android App Vulnerability Analysis Report<br>
 43-46	        Smart Contract Audit & Vulnerability Report<br>
 47-50	        Web API Security Assessment & Fuzzing Tool<br>
-51-52	        Secure Your Own Website/Application (or similar project)<br>
+51-52	        Secure Your Own Website/Application<br>
