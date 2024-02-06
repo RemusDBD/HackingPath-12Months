@@ -13,7 +13,7 @@ Week	        GitHub Project Title<br>
 13-14	        Secure API Development in Go<br>
 15-16	        Metasploit Module Contribution<br>
 17-18	        Threat Intelligence Gathering & Simulation<br>
-19-22	        Spear Phishing Campaign Simulation<br>- Landing Page & Social Engineering Techniques<br>- Campaign Analysis & Responsible Disclosure Report<br>
+19-22	        Spear Phishing Campaign Simulation<br>
 23-26	        Basic Encrypted RAT with Obfuscation<br>
 27-30 	      Maintaining Access & Lateral Movement Script<br>
 31-34	        AWS Security Assessment Report<br>
