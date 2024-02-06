@@ -1,5 +1,9 @@
 # HackingPath-12Months<br>
-12-month hacking bootcamp: Code. Hack. Learn.  Master essential cybersec skills: Python, exploits, ️web security, &amp; more. Daily GitHub projects showcase your journey. Become a pro - ethically!  #infosec #hacking<br>
+12-month hacking bootcamp: <br>
+Code. Hack. Learn.  <br>
+Master essential cybersec skills: Python, exploits, ️web security, &amp; more. <br>
+Daily GitHub projects showcase your journey. <br>
+Become a pro - ethically!  #infosec #hacking<br>
 
 #Week	        #GitHub Project Title<br>
 1-2	          Python Data Types & Control Flow Exercises<br>
